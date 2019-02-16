@@ -1,0 +1,11 @@
+body{background-color: #454343;color: #e6e6e6;}
+.FCName{
+	font-family: "Playfair Display";
+}
+
+.header{font-size:2.5rem;}
+
+.header a:link, a:visited,a:active,a:hover{text-decoration: none;}
+
+.header a{color:#DAA520;}
+.header a:hover{color:#FFD700;}
